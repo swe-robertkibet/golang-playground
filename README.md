@@ -28,3 +28,7 @@ And much more!
 Feel free to clone the repo and follow along. If you spot any mistakes or have suggestions, don’t hesitate to open an issue or a pull request. Learning is better together!
 
 Let’s explore Golang one topic at a time!
+
+### What Next?
+
+I will be looking at <a href "https://go.dev/doc/effective_go"> EFFECTIVE GO </a>

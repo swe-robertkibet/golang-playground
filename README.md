@@ -31,4 +31,4 @@ Let’s explore Golang one topic at a time!
 
 ### What Next?
 
-I will be looking at <a href "https://go.dev/doc/effective_go"> EFFECTIVE GO </a>
+I will be looking at <a href="https://go.dev/doc/effective_go"> EFFECTIVE GO </a>

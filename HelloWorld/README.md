@@ -27,7 +27,7 @@ func main() {
 
 3. **`func main()`**:
 
-   - This is the main function where the execution of your Go program starts.
+   - This is the main function where the execution of our Go program starts.
    - Every Go program must have a `main` function inside the `main` package. It’s the entry point of the executable program.
 
 4. **`fmt.Println("hello world")`**:
@@ -82,6 +82,8 @@ To run the Go program, we have a few steps to follow:
      ```
      hello world
      ```
+
+![Files and commands](./Screenshot%202024-09-03%20225637.png)
 
 ### 3. **Why Build a Binary?**
 

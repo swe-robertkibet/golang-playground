@@ -93,7 +93,7 @@ Building a binary allows us to:
 - **Performance**: The binary is already compiled, so it runs faster than using `go run`, which compiles each time.
 - **Portability**: The compiled binary can be run on any machine of the same architecture and OS without needing the Go source code.
 
-### 3. **Commands used**
+### 4. **Commands used**
 
 - **go run**
 - **go build**

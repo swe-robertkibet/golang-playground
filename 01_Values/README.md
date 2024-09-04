@@ -45,6 +45,8 @@ func main() {
    false
    ```
 
+![Screenshot of Go Values Program Output](./Screenshot%202024-09-04%20202533.png)
+
 ## Explanation
 
 - **Strings**: The program demonstrates string concatenation using the `+` operator.

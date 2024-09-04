@@ -1,8 +1,8 @@
-# Go Values Example
+# Go Values
 
 This is a basic Go program demonstrating the usage of different value types in Go, including strings, integers, floats, and booleans. The program prints various outputs to the console to show how these value types work.
 
-## Code Example
+## Code
 
 ```go
 package main

@@ -38,7 +38,9 @@ func main() {
 }
 ```
 
-## 3. **Explanation of our Code**
+## 3. **Output**
+
+## 4. **Explanation of our Code**
 
 1. **Variable Declaration with Initialization**:
 

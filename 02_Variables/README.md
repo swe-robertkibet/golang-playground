@@ -2,11 +2,11 @@
 
 In Go, variables must be explicitly declared, which helps the compiler ensure type correctness during function calls and other operations. Let's break down how we handle variables in Go, along with an explanation of the code above.
 
-### 1. **Variable Declaration in Go**
+## 1. **Variable Declaration in Go**
 
 We can declare variables in Go using the `var` keyword or using shorthand syntax (`:=`), depending on the context.
 
-### 2. **Our Code Above**
+## 2. **Our Code Above**
 
 Here's our code demonstrating variable declaration:
 
@@ -38,7 +38,7 @@ func main() {
 }
 ```
 
-### 3. **Explanation of our Code**
+## 3. **Explanation of our Code**
 
 1. **Variable Declaration with Initialization**:
 
@@ -106,7 +106,7 @@ func main() {
      apple
      ```
 
-### 4. **Running the Code**
+## 4. **Running the Code**
 
 1. **Save the code** in a file named `main.go`.
 2. **Run the code** in your terminal:
@@ -124,7 +124,7 @@ func main() {
    apple
    ```
 
-### 5. **Summary**
+## 5. **Summary**
 
 - **`var` keyword**: Used to declare variables. Go can infer the type from the value assigned.
 - **Zero values**: Variables that are declared but not initialized are assigned a default zero value (e.g., `0` for integers, `false` for booleans).

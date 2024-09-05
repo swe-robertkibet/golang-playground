@@ -108,7 +108,7 @@ func main() {
      apple
      ```
 
-## 4. **Running the Code**
+## 5. **Running the Code**
 
 1. **Save the code** in a file named `main.go`.
 2. **Run the code** in your terminal:
@@ -126,7 +126,7 @@ func main() {
    apple
    ```
 
-## 5. **Summary**
+## 6. **Summary**
 
 - **`var` keyword**: Used to declare variables. Go can infer the type from the value assigned.
 - **Zero values**: Variables that are declared but not initialized are assigned a default zero value (e.g., `0` for integers, `false` for booleans).

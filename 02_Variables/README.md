@@ -38,7 +38,9 @@ func main() {
 }
 ```
 
-## 3. **Output**
+## 3. **Output Screenshot**
+
+![Screenshot of Variable Declaration Output](./Screenshot%202024-09-05%20202902.png)
 
 ## 4. **Explanation of our Code**
 

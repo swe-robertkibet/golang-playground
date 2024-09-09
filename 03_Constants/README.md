@@ -32,3 +32,7 @@ func main() {
     fmt.Println(math.Sin(n))
 }
 ```
+
+# Output
+
+![Screenshot of Go Constants Output](./Screenshot%202024-09-09%20203553.png)
